@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lukasz_Bednarek_Lab1</string>
+    <string name="button_blue_switch">BLUE</string>
+    <string name="button_red_switch">RED</string>
+    <string name="button_green_switch">GREEN</string>
+    <string name="button_clear_text">CLEAR</string>
+    <string name="plain_text_input">Colorize Me!</string>
+    <string name="plain_text_main_input">Colourize Me!</string>
+    <string name="text_input">Colourize Me!</string>
+</resources>

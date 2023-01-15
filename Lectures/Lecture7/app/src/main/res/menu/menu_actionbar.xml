@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_actionbar"
+        android:icon="@drawable/ic_outline_next_week_24"
+        android:title="Item_1"
+        app:showAsAction="always" />
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item2_actionbar"
+            android:title="Item_2" />
+        <item
+            android:id="@+id/item3_actionbar"
+            android:title="Item_3" />
+    </group>
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lecture7</string>
+    <string name="sports">Sports</string>
+    <string name="string_sports" />
+    <string name="food">Food</string>
+    <string name="string_string_sports">Sports</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lecture2</string>
+    <string name="good_morning_string">Lecture2</string>
+    <string name="open_facebook_url">open_facebook_url</string>
+    <string name="main_button">Main Button</string>
+    <string name="other_button">Other Button</string>
+    <string name="info">Info</string>
+    <string name="pass_text">Pass Text</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="animals">
+        <item>Elephant</item>
+        <item>Mouse</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Gopher</item>
+    </string-array>
+
+</resources>

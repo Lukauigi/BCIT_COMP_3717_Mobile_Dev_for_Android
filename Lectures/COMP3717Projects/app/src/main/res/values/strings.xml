@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstAndroidApp</string>
+    <string name="Click_Me">Click Me</string>
+    <string name="text_main">Happy New Year</string>
+    <string name="change_colour">Change Colour</string>
+    <string name="learning_is_fun">Learning is Fun!</string>
+    <string name="fun_text_colour">Learning is Fun</string>
+    <string name="click_the_button_to_learn">Click the button to learn</string>
+    <string name="what">What</string>
+</resources>

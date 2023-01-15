@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lukaszbednarek_lab2</string>
+    <string name="colors_and_songs_by_luke">Colors and songs by Luke</string>
+    <string name="button_main_song_one">Button</string>
+    <string name="song_two">Song Two</string>
+    <string name="song_one">Song One</string>
+    <string name="songs_1">songs 1</string>
+    <string name="songs_2">songs 2</string>
+</resources>

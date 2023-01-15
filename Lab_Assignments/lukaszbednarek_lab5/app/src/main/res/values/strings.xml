@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lukaszbednarek_lab5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="random_fact">RANDOM FACT</string>
+    <string name="textview_info">TextView</string>
+    <string name="next">NEXT</string>
+</resources>

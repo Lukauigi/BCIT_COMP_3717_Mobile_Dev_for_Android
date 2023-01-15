@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".BreedsActivity" >
+
+    <Button
+        android:id="@+id/button_breeds_first_selection"
+        android:layout_width="match_parent"
+        android:layout_height="134dp"
+        android:layout_marginTop="125dp"
+        android:onClick="toFactsActivity"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/button_breeds_second_selection"
+        android:layout_width="match_parent"
+        android:layout_height="134dp"
+        android:onClick="toFactsActivity"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/button_breeds_third_selection"
+        android:layout_width="match_parent"
+        android:layout_height="134dp"
+        android:onClick="toFactsActivity"
+        tools:ignore="SpeakableTextPresentCheck" />
+</LinearLayout>
